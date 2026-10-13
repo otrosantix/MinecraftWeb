@@ -63,7 +63,21 @@ body {
   color: var(--verde-mc);
   text-shadow: 2px 2px 0 #000;
 }
-.padding-th{
+.padding-tabla{
   padding: 8px;
   border: 1px solid var(--verde-mc);
 }
+#crafteos{
+background-image: url("../img/mesacraft.png");
+
+}
+#crafteos th{
+  color: var(--texto-claro);
+  background-color: var(--verde-oscuro);
+  text-shadow: 2px 2px 0 #000;
+}
+ #crafteos td{
+  color: var(--texto-claro);
+  background-color: var(--piedra);
+  text-shadow: 2px 2px 0 #000;
+ }
