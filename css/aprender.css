@@ -1,0 +1,25 @@
+.cinta-streamers {
+  max-width: 400px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.cinta-streamers .carousel-inner {
+  height: 560px;
+}
+
+.cinta-streamers .carousel-item,
+.cinta-streamers .carousel-item img {
+  height: 560px;
+}
+
+.cinta-streamers img {
+  width: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.carousel-caption{
+    color: purple
+    text-shadow: 2px 2px 0 #000;
+}
