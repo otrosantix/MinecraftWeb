@@ -33,23 +33,13 @@
 }
 
 .hero_pasto {
-    background-size:auto 40%;
-  background-image: url("../img/primer-plano.png");
+    background-size:auto 80%;
+    background-position: bottom center;
+  background-image: url("../img/primer-plano2.png");
   z-index: 3;
 }
 
-.hero_personaje1 {
-  background-image: url("../img/personaje.png");
-  z-index: 3;
-  background-size: auto 70%;
-  background-position: left;
-}
-.hero_personaje2 {
-  background-image: url("../img/personaje.png");
-  z-index: 3;
-  background-size: auto 70%;
-  background-position: right;
-}
+
 
 .hero__contenido {
   position: relative;

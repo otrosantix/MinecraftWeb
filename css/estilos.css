@@ -65,4 +65,5 @@ body {
 }
 .padding-th{
   padding: 8px;
+  border: 1px solid var(--verde-mc);
 }
