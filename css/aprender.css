@@ -114,3 +114,7 @@
   color: #ccc;
   margin: 0;
 }
+#los-inicios{
+    background-image: url("../img/fondoMine.jpg");
+    background-size: cover ;
+}
