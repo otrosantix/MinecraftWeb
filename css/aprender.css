@@ -23,3 +23,68 @@
     color: purple
     text-shadow: 2px 2px 0 #000;
 }
+.tarjeta-streamer {
+  background-color: #3a3a3a;
+  border: 3px solid var(--tierra);
+  box-shadow: 5px 5px 0 #000;
+  padding: 1.2rem;
+  text-align: center;
+  height: 100%;
+}
+
+.tarjeta-streamer img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border: 3px solid var(--verde-mc);
+  margin-bottom: 10px;
+}
+
+.tarjeta-streamer h4 {
+  color: #fff;
+  font-size: 1.2rem;
+  margin-bottom: 4px;
+}
+
+.tarjeta-streamer .apodo {
+  color: var(--verde-mc);
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.tarjeta-streamer p {
+  color: #ccc;
+  font-size: 0.95rem;
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.caja-nota {
+  background-color: #333;
+  border-left: 6px solid var(--verde-mc);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1rem;
+  box-shadow: 4px 4px 0 #000;
+  height: 100%;
+}
+
+.caja-nota h4 {
+  color: var(--verde-mc);
+  margin: 0 0 8px 0;
+  font-family: "Courier New", monospace;
+}
+
+.caja-nota p {
+  margin: 0;
+  color: #ddd;
+}
+#headerAprend{
+    background-image: url("../img/fondoHeader.jpg");
+    background-size: cover ;
+    font-size: 1.5rem;
+}
+#zona-streamers {
+    background-image: url("../img/fondoCarrusel.jpg");
+    background-size: cover ;
+    font-size: 1.5rem;
+}
