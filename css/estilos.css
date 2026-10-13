@@ -68,7 +68,7 @@ body {
   border: 1px solid var(--verde-mc);
 }
 #crafteos{
-background-image: url("../img/mesacraft.png");
+background-image: url("../img/fondoCraft.jpg");
 
 }
 #crafteos th{
@@ -81,3 +81,7 @@ background-image: url("../img/mesacraft.png");
   background-color: var(--piedra);
   text-shadow: 2px 2px 0 #000;
  }
+ #guiafooter{
+  background-color:var(--verde-mc);
+  padding: 1px;
+}
