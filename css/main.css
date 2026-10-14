@@ -132,7 +132,7 @@
   margin-bottom: 1.5rem;
 }
 
-formulario-contacto {
+.formulario-contacto {
   background-color: #3a3a3a;
   border: 3px solid var(--tierra);
   box-shadow: 5px 5px 0 #000;
